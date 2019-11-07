@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'ikovalen2019_Example' do
+  pod 'ikovalen2019', :path => '../'
+
+  target 'ikovalen2019_Tests' do
+    inherit! :search_paths
+
+    pod 'Quick', '~> 1.2.0'
+    pod 'Nimble', '~> 7.0'
+  end
+end

@@ -1,0 +1,27 @@
+PODS:
+  - ikovalen2019 (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - ikovalen2019 (from `../`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  ikovalen2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ikovalen2019: dd9d5eb9a7a88f63d7e1f5b6f725c258ec5e761e
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: f4931b6f95a148f86baf5a3fd3c3a8cc40384023
+
+COCOAPODS: 1.8.3
