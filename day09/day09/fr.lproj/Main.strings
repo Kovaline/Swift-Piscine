@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Modified"; ObjectID = "22A-n5-Wb3"; */
+"22A-n5-Wb3.text" = "Modified";
+
+/* Class = "UITextField"; text = "Title"; ObjectID = "5gK-MD-9Hc"; */
+"5gK-MD-9Hc.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Take photo"; ObjectID = "76o-ep-y3r"; */
+"76o-ep-y3r.normalTitle" = "Take photo";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ChL-O6-N0W"; */
+"ChL-O6-N0W.text" = "Title";
+
+/* Class = "UILabel"; text = "Created"; ObjectID = "G4Z-WZ-CrF"; */
+"G4Z-WZ-CrF.text" = "Created";
+
+/* Class = "UIButton"; normalTitle = "Touch id"; ObjectID = "PXa-Zq-7GU"; */
+"PXa-Zq-7GU.normalTitle" = "Touch id";
+
+/* Class = "UITextView"; text = "Text of Article"; ObjectID = "a2a-Nd-KXt"; */
+"a2a-Nd-KXt.text" = "Text of Article";
+
+/* Class = "UINavigationItem"; title = "Diary"; ObjectID = "ckj-B6-Lyn"; */
+"ckj-B6-Lyn.title" = "Diary";
+
+/* Class = "UINavigationItem"; title = "Article"; ObjectID = "pCP-Hs-oMz"; */
+"pCP-Hs-oMz.title" = "Article";
+
+/* Class = "UILabel"; text = "Content"; ObjectID = "xqq-xl-9YJ"; */
+"xqq-xl-9YJ.text" = "Content";
+
+/* Class = "UIButton"; normalTitle = "Select photo"; ObjectID = "yam-ef-nkO"; */
+"yam-ef-nkO.normalTitle" = "Select photo";

@@ -1,0 +1,16 @@
+PODS:
+  - ikovalen2019 (0.1.0)
+
+DEPENDENCIES:
+  - ikovalen2019 (from `/Users/ikovalen/day08/ikovalen2019`)
+
+EXTERNAL SOURCES:
+  ikovalen2019:
+    :path: "/Users/ikovalen/day08/ikovalen2019"
+
+SPEC CHECKSUMS:
+  ikovalen2019: dd9d5eb9a7a88f63d7e1f5b6f725c258ec5e761e
+
+PODFILE CHECKSUM: fe3e755b545013d6a10e4040e4833c44ec3a9210
+
+COCOAPODS: 1.8.3

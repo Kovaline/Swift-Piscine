@@ -25,6 +25,7 @@ class ViewController: UIViewController {
             if (digit2 != 0){
                 result = digit / digit2;
             } else {
+                print(digit)
                 calcLable.text = "Not a number";
                 result = 0;
                 digit = 0;
